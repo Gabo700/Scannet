@@ -1,2 +1,2 @@
-# Scannett
+# Scannet
   port checker
