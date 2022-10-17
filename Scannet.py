@@ -13,5 +13,4 @@ for port in range(1, 200):
     result = s.connect_ex((target,port))
     if result == 0:
         print('port {} is open'.format(port))
-    ##else result == 1: 
-        ##print('port {} is close'.format(port))
+   
